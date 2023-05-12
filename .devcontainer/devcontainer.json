@@ -1,0 +1,6 @@
+{
+    "name": "gtest_basics",
+    "build": {
+        "dockerfile": "Dockerfile"
+    }
+}
