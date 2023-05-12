@@ -1,5 +1,5 @@
 #include "gtest/gtest.h"
-#include "src/math.h"
+#include "../src/math.h"
 
 TEST(AddTest, HandlePositiveInput) {
     EXPECT_EQ(2, add(1, 1));
